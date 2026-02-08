@@ -63,12 +63,27 @@ Used Pydantic for strict data validation. It ensures that all incoming data (fro
 ## Live Demo
 You can test the live API here:  
 
+**Search AQI by IP Address**
 🔗 **[https://airaware-g729.onrender.com/aqi](https://airaware-g729.onrender.com/aqi)**
 
-Made an Interactive UI using React to display information from the api in a user freindly manner. Deployed using vercel
+**Search AQI by City**
+🔗 **[https://airaware-g729.onrender.com/aqi/by-city?name=Kolkata](https://airaware-g729.onrender.com/aqi/by-city?name=Kolkata)**
+
+<p>
+  <img src="images/aqi_by_city.png" alt="AQI By City Screenshot" width="350">
+  <br>
+  <em>Sample JSON response for getting AQI by city</em>
+</p>
+
+**Made an Interactive UI using React to display information from the api in a user freindly manner. Deployed using vercel**
 
 🔗 **[https://airware-ui-gido.vercel.app](https://airware-ui-gido.vercel.app/)**  *(Source Code: [airaware-ui](https://github.com/RohanKT10/airware-ui))*
 
+<p>
+  <img src="images/airaware_ui.png" aalt="Frontend Screenshot" width="350">
+  <br>
+  <em>User frendly UI for checking AQI value</em>
+</p>
 
 *(Note: The free tier of Render may take 50 seconds or more to wake up on the first request. Please be patient!)*
 
