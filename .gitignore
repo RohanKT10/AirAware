@@ -1,0 +1,11 @@
+# Cache / runtime
+__pycache__/
+__pycache__
+cache/
+.pytest_cache/
+
+# Virtual environment
+myenv
+
+# Environment variables
+.env  
