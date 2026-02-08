@@ -67,7 +67,7 @@ You can test the live API here:
 
 Made an Interactive UI using React to display information from the api in a user freindly manner. Deployed using vercel
 
-🔗 **[https://airware-ui-gido.vercel.app](hhttps://airware-ui-gido.vercel.app/)**  *(Source Code: [airaware-ui](https://github.com/RohanKT10/airware-ui))*
+🔗 **[https://airware-ui-gido.vercel.app](https://airware-ui-gido.vercel.app/)**  *(Source Code: [airaware-ui](https://github.com/RohanKT10/airware-ui))*
 
 
 *(Note: The free tier of Render may take 50 seconds or more to wake up on the first request. Please be patient!)*
